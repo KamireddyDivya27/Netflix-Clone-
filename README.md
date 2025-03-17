@@ -22,7 +22,7 @@ A fully responsive **Netflix Clone** built using **HTML & CSS**, designed to rep
 ## 📸 Preview  
 
 ![Netflix Clone Preview](![image](https://github.com/user-attachments/assets/a7f1eaa7-c095-4c2e-a10d-31e80066e063)
-) *(Add a screenshot of your project here)*  
+) *![image](https://github.com/user-attachments/assets/f3589621-8e81-46a1-8338-87071722b53f)*  
 
 ## 🏗️ Setup & Usage  
 
